@@ -28,25 +28,7 @@ That.sec=The parties hereby agree as follows:
 
 1.3.Ti=Sale of Additional Shares of Preferred Stock
 
-1.3.1.0.sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to [_________] additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the “Additional Shares”), to one (1) or more purchasers (the “Additional Purchasers”) [reasonably acceptable to Purchasers holding a [specify percentage] of the then outstanding Shares], provided that
-
-ProofReadersNote=missing a ";" after this item.
-
-1.3.1.1.sec=such subsequent sale is consummated prior to [ninety (90)] days after the Initial Closing
-
-1.3.1.2.sec=each Additional Purchaser becomes a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements
-
-Optional:
-
-1.3.1.3.sec=[_________], counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws
-
-1.3.1.=[G/Z/ol-i/s3]
-
-1.3.1.secs={1.3.1.secs;and}
-
-1.3.2.sec=Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
-
-1.3.=[G/Z/para/s2]
+1.3.sec=After the Initial Closing, the Company may sell, on the same terms and conditions as those contained in this Agreement, up to [_________] additional shares (subject to appropriate adjustment in the event of any stock dividend, stock split, combination or similar recapitalization affecting such shares) of Series A Preferred Stock (the “Additional Shares”), to one (1) or more purchasers (the “Additional Purchasers”) [reasonably acceptable to Purchasers holding a [specify percentage] of the then outstanding Shares], provided that (i) such subsequent sale is consummated prior to [ninety (90)] days after the Initial Closing (ii) each Additional Purchaser becomes a party to the Transaction Agreements (as defined below) (other than the Management Rights Letter), by executing and delivering a counterpart signature page to each of the Transaction Agreements[; and (iii) [_________], counsel for the Company, provides an opinion dated as of the date of such Closing that the offer, issuance, sale and delivery of the Additional Shares to the Additional Purchasers do not require registration under the Securities Act of 1933, as amended, or applicable state securities laws]. Exhibit A to this Agreement shall be updated to reflect the number of Additional Shares purchased at each such Closing and the parties purchasing such Additional Shares.
 
 Optional:
 
@@ -108,9 +90,9 @@ Optional:
 
 2.2.1.0.sec=The authorized capital of the Company consists, immediately prior to the Initial Closing, of:
 
-2.2.1.1.sec=[__________] shares of common stock, $[____] par value per share (the “Common Stock”), [_________] shares of which are issued and outstanding immediately prior to the Initial Closing. All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws. [The Company holds no Common Stock in its treasury.]
+2.2.1.1.sec=(i)	[__________] shares of common stock, $[____] par value per share (the “Common Stock”), [_________] shares of which are issued and outstanding immediately prior to the Initial Closing. All of the outstanding shares of Common Stock have been duly authorized, are fully paid and nonassessable and were issued in compliance with all applicable federal and state securities laws. [The Company holds no Common Stock in its treasury.]
 
-2.2.1.2.sec=[__________] shares of Preferred Stock, of which [__________] shares have been designated Series A Preferred Stock, none of which are issued and outstanding immediately prior to the Initial Closing. The rights, privileges and preferences of the Preferred Stock are as stated in the Restated Certificate and as provided by the Delaware General Corporation Law. [The Company holds no Preferred Stock in its treasury.]
+2.2.1.2.sec=(ii)	[__________] shares of Preferred Stock, of which [__________] shares have been designated Series A Preferred Stock, none of which are issued and outstanding immediately prior to the Initial Closing. The rights, privileges and preferences of the Preferred Stock are as stated in the Restated Certificate and as provided by the Delaware General Corporation Law. [The Company holds no Preferred Stock in its treasury.]
 
 ???
 
@@ -120,41 +102,7 @@ Optional:
 
 Optional:
 
-2.2.3.1.0.sec=Section {Annex.3.2.2(c).Xnum} of the Disclosure Schedule sets forth the capitalization of the Company immediately following the Initial Closing including the number of shares of the following: 
-
-2.2.3.1.1.sec=issued and outstanding Common Stock, including, with respect to restricted Common Stock, vesting schedule and repurchase price;
-
-2.2.3.1.2.sec=outstanding stock options, including vesting schedule and exercise price;
-
-2.2.3.1.3.sec=shares of Common Stock reserved for future award grants under the Stock Plan;
-
-2.2.3.1.4.sec=each series of Preferred Stock; and 
-
-2.2.3.1.5.sec=warrants or stock purchase rights, if any.
-
-2.2.3.1.=[G/Z/ol-i/s5]
-
-2.2.3.2.0.sec=Except for
-
-2.2.3.2.1.sec=the conversion privileges of the Shares to be issued under this Agreement,
-
-2.2.3.2.2.sec=the rights provided in Section {4.Xnum} of the Investors’ Rights Agreement, and
-
-2.2.3.2.3.sec=the securities and rights described in Sections {2.2(a)(ii).Xnum} and {2.2(b).Xnum} of this Agreement and Section {Annex.3.2.2(c).Xnum} of the Disclosure Schedule, 
-
-2.2.3.2.00.sec=there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or Series A Preferred Stock, or any securities convertible into or exchangeable for shares of Common Stock or Series A Preferred Stock.
-
-2.2.3.2.=[G/Z/ol-AA/s3]
-
-2.2.3.3.0.sec=All outstanding shares of the Company’s Common Stock and all shares of the Company’s Common Stock underlying outstanding options are subject to
-
-2.2.3.3.1.sec=a right of first refusal in favor of the Company upon any proposed transfer (other than transfers for estate planning purposes); and
-
-2.2.3.3.2.sec=a lock-up or market standoff agreement of not less than one hundred eighty (180) days following the Company’s initial public offering pursuant to a registration statement filed with the Securities and Exchange Commission under the Securities Act.
-
-2.2.3.3.=[G/Z/ol-i/s2]
-
-2.2.3.=[G/Z/paras/s3]
+2.2.3.sec=Section {Annex.3.2.2(c).Xnum} of the Disclosure Schedule sets forth the capitalization of the Company immediately following the Initial Closing including the number of shares of the following: (i) issued and outstanding Common Stock, including, with respect to restricted Common Stock, vesting schedule and repurchase price; (ii) outstanding stock options, including vesting schedule and exercise price; (iii) shares of Common Stock reserved for future award grants under the Stock Plan; (iv) each series of Preferred Stock; and (v) warrants or stock purchase rights, if any.] Except for (A) the conversion privileges of the Shares to be issued under this Agreement, (B) the rights provided in Section {4.Xnum} of the Investors’ Rights Agreement, and (C) the securities and rights described in Sections {2.2(a)(ii).Xnum} and {2.2(b).Xnum} of this Agreement and Section {Annex.3.2.2(c).Xnum} of the Disclosure Schedule, there are no outstanding options, warrants, rights (including conversion or preemptive rights and rights of first refusal or similar rights) or agreements, orally or in writing, to purchase or acquire from the Company any shares of Common Stock or Series A Preferred Stock, or any securities convertible into or exchangeable for shares of Common Stock or Series A Preferred Stock. All outstanding shares of the Company’s Common Stock and all shares of the Company’s Common Stock underlying outstanding options are subject to (i) a right of first refusal in favor of the Company upon any proposed transfer (other than transfers for estate planning purposes); and (ii) a lock-up or market standoff agreement of not less than one hundred eighty (180) days following the Company’s initial public offering pursuant to a registration statement filed with the Securities and Exchange Commission under the Securities Act.
 
 2.2.4.sec=None of the Company’s stock purchase agreements or stock option documents contains a provision for acceleration of vesting (or lapse of a repurchase right) or other changes in the vesting provisions or other terms of such agreement or understanding upon the occurrence of any event or combination of events, including, without limitation, in the case where the Company’s Stock Plan is not assumed in an acquisition. The Company has never adjusted or amended the exercise price of any stock options previously awarded, whether through amendment, cancellation, replacement grant, repricing, or any other means. Except as set forth in the Restated Certificate, the Company has no obligation (contingent or otherwise) to purchase or redeem any of its capital stock.
 
@@ -176,21 +124,7 @@ Optional:
 
 2.4.Ti=Authorization
 
-2.4.1.sec=All corporate action required to be taken by the Company’s Board of Directors and stockholders in order to authorize the Company to enter into the Transaction Agreements, and to issue the Shares at the Closing and the Common Stock issuable upon conversion of the Shares, has been taken[ or will be taken prior to the [applicable] Closing].
-
-2.4.2.sec=All action on the part of the officers of the Company necessary for the execution and delivery of the Transaction Agreements, the performance of all obligations of the Company under the Transaction Agreements to be performed as of the Closing, and the issuance and delivery of the Shares has been taken[ or will be taken prior to the [applicable] Closing].
-
-2.4.3.0.sec=The Transaction Agreements, when executed and delivered by the Company, shall constitute valid and legally binding obligations of the Company, enforceable against the Company in accordance with their respective terms except
-
-2.4.3.1.sec=as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of general application relating to or affecting the enforcement of creditors’ rights generally,
-
-2.4.3.2.sec=as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies, or
-
-2.4.3.3.sec=to the extent the indemnification provisions contained in the Investors’ Rights Agreement and the Indemnification Agreement may be limited by applicable federal or state securities laws.
-
-2.4.3.=[G/Z/ol-i/s3]
-
-2.4.=[G/Z/paras/s3]
+2.4.sec=All corporate action required to be taken by the Company’s Board of Directors and stockholders in order to authorize the Company to enter into the Transaction Agreements, and to issue the Shares at the Closing and the Common Stock issuable upon conversion of the Shares, has been taken[ or will be taken prior to the [applicable] Closing]. All action on the part of the officers of the Company necessary for the execution and delivery of the Transaction Agreements, the performance of all obligations of the Company under the Transaction Agreements to be performed as of the Closing, and the issuance and delivery of the Shares has been taken[ or will be taken prior to the [applicable] Closing]. The Transaction Agreements, when executed and delivered by the Company, shall constitute valid and legally binding obligations of the Company, enforceable against the Company in accordance with their respective terms except (i) as limited by applicable bankruptcy, insolvency, reorganization, moratorium, fraudulent conveyance, or other laws of general application relating to or affecting the enforcement of creditors’ rights generally, (ii) as limited by laws relating to the availability of specific performance, injunctive relief, or other equitable remedies, or (iii) to the extent the indemnification provisions contained in the Investors’ Rights Agreement and the Indemnification Agreement may be limited by applicable federal or state securities laws.
 
 2.5.Ti=Valid Issuance of Shares
 
@@ -220,33 +154,11 @@ Optional:
 
 2.8.4.sec=The Company has obtained and possesses valid licenses to use all of the software programs present on the computers and other software-enabled electronic devices that it owns or leases or that it has otherwise provided to its employees for their use in connection with the Company’s business.
 
-2.8.5.1.0.sec=Each employee and consultant has assigned to the Company all intellectual property rights he or she owns that are related to the Company’s business as now conducted and as presently proposed to be conducted and all intellectual property rights that he, she or it solely or jointly conceived, reduced to practice, developed or made during the period of his, her or its employment or consulting relationship with the Company that
-
-2.8.5.1.1.sec=relate, at the time of conception, reduction to practice, development, or making of such intellectual property right, to the Company’s business as then conducted or as then proposed to be conducted, 
-
-2.8.5.1.2.sec=were developed on any amount of the Company’s time or with the use of any of the Company’s equipment, supplies, facilities or information or 
-
-2.8.5.1.3.sec=resulted from the performance of services for the Company. 
-
-2.8.5.1.=[G/Z/ol-i/s3]
-
-2.8.5.2.sec=[To the Company’s knowledge,] it will not be necessary to use any inventions of any of its employees or consultants (or Persons it currently intends to hire) made prior to their employment by the Company, including prior employees or consultants[, or academic or medical institutions with which any of them may be affiliated now or may have been affiliated in the past].
-
-2.8.5.=[G/Z/paras/s2]
+2.8.5.sec=Each employee and consultant has assigned to the Company all intellectual property rights he or she owns that are related to the Company’s business as now conducted and as presently proposed to be conducted and all intellectual property rights that he, she or it solely or jointly conceived, reduced to practice, developed or made during the period of his, her or its employment or consulting relationship with the Company that (i) relate, at the time of conception, reduction to practice, development, or making of such intellectual property right, to the Company’s business as then conducted or as then proposed to be conducted, (ii) were developed on any amount of the Company’s time or with the use of any of the Company’s equipment, supplies, facilities or information or (iii) resulted from the performance of services for the Company. [To the Company’s knowledge,] it will not be necessary to use any inventions of any of its employees or consultants (or Persons it currently intends to hire) made prior to their employment by the Company, including prior employees or consultants[, or academic or medical institutions with which any of them may be affiliated now or may have been affiliated in the past].
 
 2.8.6.sec=Section {Annex.3.2.8(f).Xnum} of the Disclosure Schedule lists all patents, patent applications, [registered] trademarks, trademark applications, service marks, service mark applications, tradenames, [registered] copyrights, and licenses to and under any of the foregoing, in each case owned by the Company.
 
-2.8.7.0.sec=The Company has not embedded, used or distributed any open source, copyleft or community source code (including but not limited to any libraries or code, software, technologies or other materials that are licensed or distributed under any General Public License, Lesser General Public License or similar license arrangement or other distribution model described by the Open Source Initiative at www.opensource.org, collectively “Open Source Software”) in connection with any of its products or services that are generally available or in development in any manner that would materially restrict the ability of the Company to protect its proprietary interests in any such product or service or in any manner that requires, or purports to require
-
-2.8.7.1.sec=any Company IP (other than the Open Source Software itself) be disclosed or distributed in source code form or be licensed for the purpose of making derivative works;
-
-2.8.7.2.sec=any restriction on the consideration to be charged for the distribution of any Company IP;
-
-2.8.7.3.sec=the creation of any obligation for the Company with respect to Company IP owned by the Company, or the grant to any third party of any rights or immunities under Company IP owned by the Company; or
-
-2.8.7.4.sec=any other limitation, restriction or condition on the right of the Company with respect to its use or distribution of any Company IP.
-
-2.8.7.=[G/Z/ol-i/s4]
+2.8.7.sec=The Company has not embedded, used or distributed any open source, copyleft or community source code (including but not limited to any libraries or code, software, technologies or other materials that are licensed or distributed under any General Public License, Lesser General Public License or similar license arrangement or other distribution model described by the Open Source Initiative at www.opensource.org, collectively “Open Source Software”) in connection with any of its products or services that are generally available or in development in any manner that would materially restrict the ability of the Company to protect its proprietary interests in any such product or service or in any manner that requires, or purports to require (i) any Company IP (other than the Open Source Software itself) be disclosed or distributed in source code form or be licensed for the purpose of making derivative works; (ii) any restriction on the consideration to be charged for the distribution of any Company IP; (iii) the creation of any obligation for the Company with respect to Company IP owned by the Company, or the grant to any third party of any rights or immunities under Company IP owned by the Company; or (iv) any other limitation, restriction or condition on the right of the Company with respect to its use or distribution of any Company IP.
 
 2.8.8.sec=No government funding, facilities of a university, college, other educational institution or research center, or funding from third parties was used in the development of any Company Intellectual Property. No Person who was involved in, or who contributed to, the creation or development of any Company Intellectual Property, has performed services for the government, university, college, or other educational institution or research center in a manner that would affect Company’s rights in the Company Intellectual Property.
 
@@ -254,49 +166,13 @@ Optional:
 
 2.9.Ti=Compliance with Other Instruments
 
-2.9.1.0.sec=The Company is not in violation or default
-
-2.9.1.1.sec=of any provisions of its Restated Certificate or Bylaws,
-
-2.9.1.2.sec=of any instrument, judgment, order, writ or decree,
-
-ProofNote=An extra "or" here.
-
-2.9.1.3.sec=under any note, indenture or mortgage, or
-
-2.9.1.4.sec=under any lease, agreement, contract or purchase order to which it is a party or by which it is bound that is required to be listed on the Disclosure Schedule, or
-
-2.9.1.5.sec=[to its knowledge,] of any provision of federal or state statute, rule or regulation applicable to the Company, the violation of which would have a Material Adverse Effect.
-
-2.9.1.=[G/Z/ol-i/s5]
-
-2.9.2.0.sec=The execution, delivery and performance of the Transaction Agreements and the consummation of the transactions contemplated by the Transaction Agreements will not result in any such violation or be in conflict with or constitute, with or without the passage of time and giving of notice, either
-
-2.9.2.1.sec=a default under any such provision, instrument, judgment, order, writ, decree, contract or agreement; or
-
-2.9.2.2.sec=an event which results in the creation of any lien, charge or encumbrance upon any assets of the Company or the suspension, revocation, forfeiture, or nonrenewal of any material permit or license applicable to the Company.
-
-2.9.2.=[G/Z/ol-i/s2]
-
-2.9.=[G/Z/paras/s2]
+2.9.sec=The Company is not in violation or default (i) of any provisions of its Restated Certificate or Bylaws, (ii) of any instrument, judgment, order, writ or decree, (iii) under any note, indenture or mortgage, or (iv) under any lease, agreement, contract or purchase order to which it is a party or by which it is bound that is required to be listed on the Disclosure Schedule, or (v) [to its knowledge,] of any provision of federal or state statute, rule or regulation applicable to the Company, the violation of which would have a Material Adverse Effect. The execution, delivery and performance of the Transaction Agreements and the consummation of the transactions contemplated by the Transaction Agreements will not result in any such violation or be in conflict with or constitute, with or without the passage of time and giving of notice, either (i) a default under any such provision, instrument, judgment, order, writ, decree, contract or agreement; or (ii) an event which results in the creation of any lien, charge or encumbrance upon any assets of the Company or the suspension, revocation, forfeiture, or nonrenewal of any material permit or license applicable to the Company.
 
 2.10.Ti=Agreements; Actions
 
 2.10.1.sec=Except for the Transaction Agreements, there are no agreements, understandings, instruments, contracts or proposed transactions to which the Company is a party or by which it is bound that involve (i) obligations (contingent or otherwise) of, or payments to, the Company in excess of [_________], (ii) the license of any patent, copyright, trademark, trade secret or other proprietary right to or from the Company, (iii) the grant of rights to manufacture, produce, assemble, license, market, or sell its products to any other Person that limit the Company’s exclusive right to develop, manufacture, assemble, distribute, market or sell its products, or (iv) indemnification by the Company with respect to infringements of proprietary rights.
 
-2.10.2.0.sec=The Company has not 
-
-2.10.2.1.sec=declared or paid any dividends, or authorized or made any distribution upon or with respect to any class or series of its capital stock,
-
-2.10.2.2.sec=incurred any indebtedness for money borrowed or incurred any other liabilities individually in excess of [___________] or in excess of [__________] in the aggregate,
-
-2.10.2.3.sec=made any loans or advances to any Person, other than ordinary advances for business expenses, or 
-
-2.10.2.4.sec=sold, exchanged or otherwise disposed of any of its assets or rights, other than in the ordinary course of business.
-
-2.10.2.00.sec=For the purposes of (a) and (b) of this Section {2.10.Xnum}, all indebtedness, liabilities, agreements, understandings, instruments, contracts and proposed transactions involving the same Person (including Persons the Company has reason to believe are affiliated with each other) shall be aggregated for the purpose of meeting the individual minimum dollar amounts of such section.
-
-2.10.2.=[G/Z/ol-i/s4]
+2.10.2.sec=The Company has not (i) declared or paid any dividends, or authorized or made any distribution upon or with respect to any class or series of its capital stock, (ii) incurred any indebtedness for money borrowed or incurred any other liabilities individually in excess of [___________] or in excess of [__________] in the aggregate, (iii) made any loans or advances to any Person, other than ordinary advances for business expenses, or (iv) sold, exchanged or otherwise disposed of any of its assets or rights, other than in the ordinary course of business. For the purposes of (a) and (b) of this Section {2.10.Xnum}, all indebtedness, liabilities, agreements, understandings, instruments, contracts and proposed transactions involving the same Person (including Persons the Company has reason to believe are affiliated with each other) shall be aggregated for the purpose of meeting the individual minimum dollar amounts of such section.
 
 2.10.3.sec=The Company is not a guarantor or indemnitor of any indebtedness of any other Person.
 
@@ -306,19 +182,7 @@ ProofNote=An extra "or" here.
 
 2.11.Ti=Certain Transactions
 
-2.11.1.0.sec=Other than
-
-2.11.1.1.sec=standard employee benefits generally made available to all employees, standard employee offer letters and Confidential Information Agreements (as defined below),
-
-2.11.1.2.sec=standard director and officer indemnification agreements approved by the Board of Directors,
-
-2.11.1.3.sec=the purchase of shares of the Company’s capital stock and the issuance of options to purchase shares of the Company’s Common Stock, in each instance, approved in the written minutes of the Board of Directors (previously provided to the Purchasers or their respective counsel), and
-
-2.11.1.4.sec=the Transaction Documents,
-
-2.11.1.00.sec=there are no agreements, understandings or proposed transactions between the Company and any of its officers, directors, consultants or Key Employees, or any Affiliate thereof.
-
-2.11.1.=[G/Z/ol-i/s4]
+2.11.1.sec=Other than (i) standard employee benefits generally made available to all employees, standard employee offer letters and Confidential Information Agreements (as defined below), (ii) standard director and officer indemnification agreements approved by the Board of Directors, (iii) the purchase of shares of the Company’s capital stock and the issuance of options to purchase shares of the Company’s Common Stock, in each instance, approved in the written minutes of the Board of Directors (previously provided to the Purchasers or their respective counsel), and (iv) the Transaction Documents, there are no agreements, understandings or proposed transactions between the Company and any of its officers, directors, consultants or Key Employees, or any Affiliate thereof.
 
 2.11.2.sec=The Company is not indebted, directly or indirectly, to any of its directors, officers or employees or to their respective spouses or children or to any Affiliate of any of the foregoing, other than in connection with expenses or advances of expenses incurred in the ordinary course of business or employee relocation expenses and for other customary employee benefits made generally available to all employees. None of the Company’s directors, officers or employees, or any members of their immediate families, or any Affiliate of the foregoing are, directly or indirectly, indebted to the Company[ or, [to the Company’s knowledge], have any (i) material commercial, industrial, banking, consulting, legal, accounting, charitable or familial relationship with any of the Company’s customers, suppliers, service providers, joint venture partners, licensees and competitors, (ii) direct or indirect ownership interest in any firm or corporation with which the Company is affiliated or with which the Company has a business relationship, or any firm or corporation which competes with the Company except that directors, officers, employees or stockholders of the Company may own stock in (but not exceeding two percent (2%) of the outstanding capital stock of) publicly traded companies that may compete with the Company; or (iii) financial interest in any [material] contract with the Company].
 
@@ -390,17 +254,7 @@ Optional:
 
 Optional:
 
-2.16.8.0.sec=To the Company’s knowledge, none of the Key Employees or directors of the Company has been
-
-2.16.8.1.sec=subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his or her business or property;
-
-2.16.8.2.sec=convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses);
-
-2.16.8.3.sec=subject to any order, judgment or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him or her from engaging, or otherwise imposing limits or conditions on his or her engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or
-
-2.16.8.4.sec=found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities, or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
-
-2.16.8.=[G/Z/ol-i/s4]
+2.16.8.sec=To the Company’s knowledge, none of the Key Employees or directors of the Company has been (i) subject to voluntary or involuntary petition under the federal bankruptcy laws or any state insolvency law or the appointment of a receiver, fiscal agent or similar officer by a court for his or her business or property; (ii) convicted in a criminal proceeding or named as a subject of a pending criminal proceeding (excluding traffic violations and other minor offenses); (iii) subject to any order, judgment or decree (not subsequently reversed, suspended, or vacated) of any court of competent jurisdiction permanently or temporarily enjoining him or her from engaging, or otherwise imposing limits or conditions on his or her engagement in any securities, investment advisory, banking, insurance, or other type of business or acting as an officer or director of a public company; or (iv) found by a court of competent jurisdiction in a civil action or by the Securities and Exchange Commission or the Commodity Futures Trading Commission to have violated any federal or state securities, commodities, or unfair trade practices law, which such judgment or finding has not been subsequently reversed, suspended, or vacated.
 
 2.16.=[G/Z/ol-a/s8]
 
@@ -440,21 +294,7 @@ Optional:
 
 2.24.Ti=Environmental and Safety Laws
 
-2.24.1.1.0.sec=Except as could not reasonably be expected to have a Material Adverse Effect [to the best of its knowledge]
-
-2.24.1.1.1.sec=the Company is and has been in compliance with all Environmental Laws;
-
-2.24.1.1.2.sec=there has been no release or [to the Company’s knowledge] threatened release of any pollutant, contaminant or toxic or hazardous material, substance or waste or petroleum or any fraction thereof (each a “Hazardous Substance”), on, upon, into or from any site currently or heretofore owned, leased or otherwise used by the Company;
-
-2.24.1.1.3.sec=there have been no Hazardous Substances generated by the Company that have been disposed of or come to rest at any site that has been included in any published U.S. federal, state or local “superfund” site list or any other similar list of hazardous or toxic waste sites published by any governmental authority in the United States; and
-
-2.24.1.1.4.sec=there are no underground storage tanks located on, no polychlorinated biphenyls (“PCBs”) or PCB-containing equipment used or stored on, and no hazardous waste as defined by the Resource Conservation and Recovery Act, as amended, stored on, any site owned or operated by the Company, except for the storage of hazardous waste in compliance with Environmental Laws.
-
-2.24.1.1.=[G/Z/ol-a/s4]
-
-2.24.1.2.sec=The Company has made available to the Purchasers true and complete copies of all material environmental records, reports, notifications, certificates of need, permits, pending permit applications, correspondence, engineering studies and environmental studies or assessments.
-
-2.24.1.=[G/Z/paras/s2]
+2.24.1.sec=Except as could not reasonably be expected to have a Material Adverse Effect [to the best of its knowledge] (a) the Company is and has been in compliance with all Environmental Laws; (b) there has been no release or [to the Company’s knowledge] threatened release of any pollutant, contaminant or toxic or hazardous material, substance or waste or petroleum or any fraction thereof (each a “Hazardous Substance”), on, upon, into or from any site currently or heretofore owned, leased or otherwise used by the Company; (c) there have been no Hazardous Substances generated by the Company that have been disposed of or come to rest at any site that has been included in any published U.S. federal, state or local “superfund” site list or any other similar list of hazardous or toxic waste sites published by any governmental authority in the United States; and (d) there are no underground storage tanks located on, no polychlorinated biphenyls (“PCBs”) or PCB-containing equipment used or stored on, and no hazardous waste as defined by the Resource Conservation and Recovery Act, as amended, stored on, any site owned or operated by the Company, except for the storage of hazardous waste in compliance with Environmental Laws. The Company has made available to the Purchasers true and complete copies of all material environmental records, reports, notifications, certificates of need, permits, pending permit applications, correspondence, engineering studies and environmental studies or assessments.
 
 2.24.2.sec=For purposes of this Section {2.24.Xnum}, “Environmental Laws” means any law, regulation, or other applicable requirement relating to (a) releases or threatened release of Hazardous Substance; (b) pollution or protection of employee health or safety, public health or the environment; or (c) the manufacture, handling, transport, use, treatment, storage, or disposal of Hazardous Substances.
 
@@ -464,17 +304,7 @@ Optional:
 
 2.25.Ti=Qualified Small Business Stock
 
-2.25.0.sec=As of and immediately following the Closing:
-
-2.25.1.sec=the Company will be an eligible corporation as defined in Section 1202(e)(4) of the Code,
-
-2.25.2.sec=the Company will not have made purchases of its own stock described in Code Section 1202(c)(3)(B) during the one (1) year period preceding the Initial Closing, except for purchases that are disregarded for such purposes under Treasury Regulation Section 1.1202-2, and
-
-2.25.3.sec=the Company’s aggregate gross assets, as defined by Code Section 1202(d)(2), at no time between its incorporation and through the Initial Closing have exceeded $50 million, taking into account the assets of any corporations required to be aggregated with the Company in accordance with Code Section 1202(d)(3);
-
-2.25.00.sec=provided, however, that in no event shall the Company be liable to the Purchasers or any other party for any damages arising from any subsequently proven or identified error in the Company’s determination with respect to the applicability or interpretation of Code Section 1202, unless such determination shall have been given by the Company in a manner either grossly negligent or fraudulent.
-
-2.25.=[G/Z/ol-i/s3]
+2.25.sec=As of and immediately following the Closing: (i) the Company will be an eligible corporation as defined in Section 1202(e)(4) of the Code, (ii) the Company will not have made purchases of its own stock described in Code Section 1202(c)(3)(B) during the one (1) year period preceding the Initial Closing, except for purchases that are disregarded for such purposes under Treasury Regulation Section 1.1202-2, and (iii) the Company’s aggregate gross assets, as defined by Code Section 1202(d)(2), at no time between its incorporation and through the Initial Closing have exceeded $50 million, taking into account the assets of any corporations required to be aggregated with the Company in accordance with Code Section 1202(d)(3); provided, however, that in no event shall the Company be liable to the Purchasers or any other party for any damages arising from any subsequently proven or identified error in the Company’s determination with respect to the applicability or interpretation of Code Section 1202, unless such determination shall have been given by the Company in a manner either grossly negligent or fraudulent.
 
 Optional:
 
@@ -486,41 +316,13 @@ Optional:
 
 2.27.Ti=Foreign Corrupt Practices Act
 
-2.27.1.0.sec=Neither the Company nor any of its directors, officers, employees or agents have, directly or indirectly, made, offered, promised or authorized any payment or gift of any money or anything of value to or for the benefit of any “foreign official” (as such term is defined in the U.S. Foreign Corrupt Practices Act of 1977, as amended (the “FCPA”)), foreign political party or official thereof or candidate for foreign political office for the purpose of 
-
-2.27.1.1.sec=influencing any official act or decision of such official, party or candidate,
-
-2.27.1.2.sec=inducing such official, party or candidate to use his, her or its influence to affect any act or decision of a foreign governmental authority, or
-
-2.27.1.3.sec=securing any improper advantage,
-
-2.27.1.00.sec=in the case of (i), (ii) and (iii) above in order to assist the Company or any of its affiliates in obtaining or retaining business for or with, or directing business to, any person.
-
-2.27.1.=[G/Z/ol-i/s3]
-
-2.27.2.sec=Neither the Company nor any of its directors, officers, employees or agents have made or authorized any bribe, rebate, payoff, influence payment, kickback or other unlawful payment of funds or received or retained any funds in violation of any law, rule or regulation.
-
-Optional:
-
-2.27.3.sec=The Company further represents that it has maintained, and has caused each of its subsidiaries and affiliates to maintain, systems of internal controls (including, but not limited to, accounting systems, purchasing systems and billing systems) and written policies to ensure compliance with the FCPA or any other applicable anti-bribery or anti-corruption law, and to ensure that all books and records of the Company accurately and fairly reflect, in reasonable detail, all transactions and dispositions of funds and assets.
-
-2.27.4.sec=Neither the Company nor[, to the Company’s knowledge,] any of its officers, directors or employees are the subject of any allegation, voluntary disclosure, investigation, prosecution or other enforcement action related to the FCPA or any other anti-corruption law (collectively, “Enforcement Action”).
-
-2.27.=[G/Z/paras/s4]
+2.27.sec=Neither the Company nor any of its directors, officers, employees or agents have, directly or indirectly, made, offered, promised or authorized any payment or gift of any money or anything of value to or for the benefit of any “foreign official” (as such term is defined in the U.S. Foreign Corrupt Practices Act of 1977, as amended (the “FCPA”)), foreign political party or official thereof or candidate for foreign political office for the purpose of (i) influencing any official act or decision of such official, party or candidate, (ii) inducing such official, party or candidate to use his, her or its influence to affect any act or decision of a foreign governmental authority, or (iii) securing any improper advantage, in the case of (i), (ii) and (iii) above in order to assist the Company or any of its affiliates in obtaining or retaining business for or with, or directing business to, any person. Neither the Company nor any of its directors, officers, employees or agents have made or authorized any bribe, rebate, payoff, influence payment, kickback or other unlawful payment of funds or received or retained any funds in violation of any law, rule or regulation. [The Company further represents that it has maintained, and has caused each of its subsidiaries and affiliates to maintain, systems of internal controls (including, but not limited to, accounting systems, purchasing systems and billing systems) and written policies to ensure compliance with the FCPA or any other applicable anti-bribery or anti-corruption law, and to ensure that all books and records of the Company accurately and fairly reflect, in reasonable detail, all transactions and dispositions of funds and assets.] Neither the Company nor[, to the Company’s knowledge,] any of its officers, directors or employees are the subject of any allegation, voluntary disclosure, investigation, prosecution or other enforcement action related to the FCPA or any other anti-corruption law (collectively, “Enforcement Action”).
 
 Optional:
 
 2.28.Ti=Data Privacy
 
-2.28.1.0.sec=In connection with its collection, storage, use and/or disclosure of any information that constitutes “personal information,” “personal data” or “personally identifiable information” as defined in applicable laws (collectively “Personal Information”) by or on behalf of the Company, the Company is and has been[, to the Company’s knowledge,] in compliance with
-
-2.28.1.1.sec=all applicable laws (including, without limitation, laws relating to privacy, data security, telephone and text message communications, and marketing by email or other channels) in all relevant jurisdictions,
-
-2.28.1.2.sec=the Company’s privacy policies [and public written statements regarding the Company’s privacy or data security practices, and
-
-2.28.1.3.sec=the requirements of any contract codes of conduct or industry standards[, including, without limitation, the Payment Card Industry Data Security Standard], by which the Company is bound.
-
-2.28.1.=[G/Z/ol-i/s3]
+2.28.1.sec=In connection with its collection, storage, use and/or disclosure of any information that constitutes “personal information,” “personal data” or “personally identifiable information” as defined in applicable laws (collectively “Personal Information”) by or on behalf of the Company, the Company is and has been[, to the Company’s knowledge,] in compliance with (i) all applicable laws (including, without limitation, laws relating to privacy, data security, telephone and text message communications, and marketing by email or other channels) in all relevant jurisdictions, (ii) the Company’s privacy policies [and public written statements regarding the Company’s privacy or data security practices, and (iii) the requirements of any contract codes of conduct or industry standards[, including, without limitation, the Payment Card Industry Data Security Standard], by which the Company is bound.
 
 2.28.2.sec=The Company maintains and has maintained reasonable physical, technical, and administrative security measures and policies designed to protect all Personal Information owned, stored, used, maintained or controlled by or on behalf of the Company from and against unlawful, accidental or unauthorized access, destruction, loss, use, modification and/or disclosure.
 
@@ -540,33 +342,11 @@ Optional:
 
 2.29.Ti=Export Control Laws
 
-2.29.0.sec=The Company has conducted all export transactions in accordance with applicable provisions of United States export control laws and regulations, including the Export Administration Regulations, the International Traffic in Arms Regulations, the regulations administered by the Office of Foreign Assets Control of the U.S. Treasury Department, and the export control laws and regulations of any other applicable jurisdiction. Without limiting the foregoing:
-
-2.29.1.sec=the Company has obtained all export licenses and other approvals, timely filed all required filings and has assigned the appropriate export classifications to all products, in each case as required for its exports of products, software and technologies from the United States and any other applicable jurisdiction; 
-
-2.29.2.sec=the Company is in compliance with the terms of all applicable export licenses, classifications, filing requirements or other approvals;
-
-2.29.3.sec=there are no pending or[, to the knowledge of the Company,] threatened claims against the Company with respect to such exports, classifications, required filings or other approvals;
-
-2.29.4.sec=there are no pending investigations related to the Company’s exports; and
-
-2.29.5.sec=there are no actions, conditions, or circumstances pertaining to the Company’s export transactions that would reasonably be expected to give rise to any material future claims.
-
-2.29.=[G/Z/ol-a/s4]
+2.29.sec=The Company has conducted all export transactions in accordance with applicable provisions of United States export control laws and regulations, including the Export Administration Regulations, the International Traffic in Arms Regulations, the regulations administered by the Office of Foreign Assets Control of the U.S. Treasury Department, and the export control laws and regulations of any other applicable jurisdiction. Without limiting the foregoing: (a) the Company has obtained all export licenses and other approvals, timely filed all required filings and has assigned the appropriate export classifications to all products, in each case as required for its exports of products, software and technologies from the United States and any other applicable jurisdiction; (b) the Company is in compliance with the terms of all applicable export licenses, classifications, filing requirements or other approvals; (c) there are no pending or[, to the knowledge of the Company,] threatened claims against the Company with respect to such exports, classifications, required filings or other approvals; (d) there are no pending investigations related to the Company’s exports; and (e) there are no actions, conditions, or circumstances pertaining to the Company’s export transactions that would reasonably be expected to give rise to any material future claims.
 
 2.30.Ti=CFIUS Representations
 
-2.30.0.sec=The Company does not engage in
-
-2.30.1.sec=the design, fabrication, development, testing, production or manufacture of one (1) or more “critical technologies” within the meaning of the Defense Production Act of 1950, as amended, including all implementing regulations thereof (the “DPA”);
-
-2.29.2.sec=the ownership, operation, maintenance, supply, manufacture, or servicing of “covered investment critical infrastructure” within the meaning of the DPA (where such activities are covered by column 2 of Appendix A to 31 C.F.R. Part 800); or
-
-2.29.3.sec=the maintenance or collection, directly or indirectly, of “sensitive personal data” of U.S. citizens within the meaning of the DPA.
-
-2.29.00.sec=The Company has no current intention of engaging in such activities in the future.
-
-2.29.=[G/Z/ol-a/s3]
+2.30.sec=The Company does not engage in (a) the design, fabrication, development, testing, production or manufacture of one (1) or more “critical technologies” within the meaning of the Defense Production Act of 1950, as amended, including all implementing regulations thereof (the “DPA”); (b) the ownership, operation, maintenance, supply, manufacture, or servicing of “covered investment critical infrastructure” within the meaning of the DPA (where such activities are covered by column 2 of Appendix A to 31 C.F.R. Part 800); or (c) the maintenance or collection, directly or indirectly, of “sensitive personal data” of U.S. citizens within the meaning of the DPA.  The Company has no current intention of engaging in such activities in the future.
 
 Optional:
 
@@ -806,23 +586,7 @@ Optional:
 
 6.6.1.Ti=General
 
-6.6.1.1.0.sec=All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt, or 
-
-6.6.1.1.1.sec=personal delivery to the party to be notified,
-
-6.6.1.1.2.sec=when sent, if sent by electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day,
-
-6.6.1.1.3.sec=five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or
-
-6.6.1.1.4.sec=one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt.
-
-6.6.1.1.=[G/Z/ol-a/s4]
-
-6.6.1.2.sec=All communications shall be sent to the respective parties at their address as set forth on the signature page or Exhibit A, or to such e-mail address or address as subsequently modified by written notice given in accordance with this Section {6.6.Xnum}.
-
-6.6.1.3.sec=If notice is given to the Company, a copy (which copy shall not constitute notice) shall also be sent to [Company Counsel Name and Address] and if notice is given to the Purchasers, a copy (which copy shall not constitute notice) shall also be given to [Purchaser Counsel Name and Address].
-
-6.6.1.=[G/Z/paras/s3]
+6.6.1.sec=All notices and other communications given or made pursuant to this Agreement shall be in writing and shall be deemed effectively given upon the earlier of actual receipt, or (a) personal delivery to the party to be notified, (b) when sent, if sent by electronic mail during normal business hours of the recipient, and if not sent during normal business hours, then on the recipient’s next business day, (c) five (5) days after having been sent by registered or certified mail, return receipt requested, postage prepaid, or (d) one (1) business day after deposit with a nationally recognized overnight courier, freight prepaid, specifying next business day delivery, with written verification of receipt. All communications shall be sent to the respective parties at their address as set forth on the signature page or Exhibit A, or to such e-mail address or address as subsequently modified by written notice given in accordance with this Section {6.6.Xnum}. If notice is given to the Company, a copy (which copy shall not constitute notice) shall also be sent to [Company Counsel Name and Address] and if notice is given to the Purchasers, a copy (which copy shall not constitute notice) shall also be given to [Purchaser Counsel Name and Address].
 
 6.6.2.Ti=Consent to Electronic Notice
 
@@ -874,19 +638,7 @@ Optional:
 
 6.15.2.sec=the closing of an initial public offering of the Company, in which case the Purchasers may terminate their obligations hereunder immediately prior to, or contingent upon, such closing; or
 
-6.15.3.0.sec=the Company
-
-6.15.3.1.sec=applies for or consents to the appointment of a receiver, trustee, custodian or liquidator of itself or substantially all of its property,
-
-6.15.3.2.sec=becomes subject to the appointment of a receiver, trustee, custodian or liquidator of itself or substantially all of its property,
-
-6.15.3.3.sec=makes an assignment for the benefit of creditors,
-
-6.15.3.4.sec=institutes any proceedings under the United States Bankruptcy Code or any other federal or state bankruptcy, reorganization, receivership, insolvency or other similar law affecting the rights of creditors generally, or files a petition or answer seeking reorganization or an arrangement with creditors to take advantage of any insolvency law, or files an answer admitting the material allegations of a bankruptcy, reorganization or insolvency petition filed against it, or
-
-6.15.3.5.sec=becomes subject to any involuntary proceedings under the United States Bankruptcy Code or any other federal or state bankruptcy, reorganization, receivership, insolvency or other similar law affecting the rights of creditors generally, when proceeding is not dismissed within thirty (30) days of filing, or have an order for relief entered against it in any proceedings under the United States Bankruptcy Code.
-
-6.15.3.=[G/Z/ol-i/s5]
+6.15.3.sec=the Company (i) applies for or consents to the appointment of a receiver, trustee, custodian or liquidator of itself or substantially all of its property, (ii) becomes subject to the appointment of a receiver, trustee, custodian or liquidator of itself or substantially all of its property, (iii) makes an assignment for the benefit of creditors, (iv) institutes any proceedings under the United States Bankruptcy Code or any other federal or state bankruptcy, reorganization, receivership, insolvency or other similar law affecting the rights of creditors generally, or files a petition or answer seeking reorganization or an arrangement with creditors to take advantage of any insolvency law, or files an answer admitting the material allegations of a bankruptcy, reorganization or insolvency petition filed against it, or (v) becomes subject to any involuntary proceedings under the United States Bankruptcy Code or any other federal or state bankruptcy, reorganization, receivership, insolvency or other similar law affecting the rights of creditors generally, when proceeding is not dismissed within thirty (30) days of filing, or have an order for relief entered against it in any proceedings under the United States Bankruptcy Code.
 
 6.15.=[G/Z/ol-a/s3]
 
@@ -906,13 +658,7 @@ Optional:
 
 Alternative 1:
 
-6.16.Alt2.1.1.sec=Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party’s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the “AAA”), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA. The arbitration shall take place in [location], in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof.
-
-6.16.Alt2.1.2.sec=There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b) depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause.
-
-6.16.Alt2.1.3.sec=Depositions shall be conducted in accordance with the [state] Code of Civil Procedure, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.
-
-6.16.Alt2.1.=[G/Z/paras/s3]
+6.16.Alt2.1.sec=Any unresolved controversy or claim arising out of or relating to this Agreement, except as (i) otherwise provided in this Agreement, or (ii) any such controversies or claims arising out of either party’s intellectual property rights for which a provisional remedy or equitable relief is sought, shall be submitted to arbitration by one arbitrator mutually agreed upon by the parties, and if no agreement can be reached within thirty (30) days after names of potential arbitrators have been proposed by the American Arbitration Association (the “AAA”), then by one arbitrator having reasonable experience in corporate finance transactions of the type provided for in this Agreement and who is chosen by the AAA. The arbitration shall take place in [location], in accordance with the AAA rules then in effect, and judgment upon any award rendered in such arbitration will be binding and may be entered in any court having jurisdiction thereof. There shall be limited discovery prior to the arbitration hearing as follows: (a) exchange of witness lists and copies of documentary evidence and documents relating to or arising out of the issues to be arbitrated, (b) depositions of all party witnesses, and (c) such other depositions as may be allowed by the arbitrators upon a showing of good cause. Depositions shall be conducted in accordance with the [state] Code of Civil Procedure, the arbitrator shall be required to provide in writing to the parties the basis for the award or order of such arbitrator, and a court reporter shall record all hearings, with such record constituting the official transcript of such proceedings.
 
 Optional:
 
@@ -940,25 +686,7 @@ Alternative 2:
 
 6.16.Alt3.7.sec=The arbitral award (the “Award”) shall (i) be rendered within [one hundred and twenty (120)] days after the Arbitrator’s acceptance of his or her appointment; (ii) be delivered in writing; (iii) state the reasons for the Award; (iv) be the sole and exclusive final and binding remedy with respect to the Dispute between and among the parties without the possibility of challenge or appeal, which are hereby waived; and (v) be accompanied by a form of judgment. The Award shall be deemed an award of the United States, the relationship between the parties shall be deemed commercial in nature, and any Dispute arbitrated pursuant to this Section {6.16.Xnum} shall be deemed commercial. The Arbitrator shall have the authority to grant any equitable or legal remedies, including, without limitation, entering preliminary or permanent injunctive relief; provided, however, that the Arbitrator shall not have the authority to award (and the parties waive the right to seek an award of) punitive or exemplary damages.
 
-6.16.Alt3.8.1.0.sec=The parties hereto agree that, subject to any non-waivable disclosure obligations under federal law, the Arbitration, and all matters relating thereto or arising thereunder, including, without limitation, the existence of the Dispute, the Arbitration and all of its elements (including any pleadings, briefs or other documents submitted or exchanged, any testimony or other oral submissions, [any third-party discovery proceedings, including any discovery obtained pursuant thereto,] and any decision of the Arbitrator or Award), shall be kept strictly confidential, and each party hereby agrees that such information shall not be disclosed beyond:
-
-6.16.Alt3.8.1.1.sec=the Arbitrator and necessary support personnel;
-
-6.16.Alt3.8.1.2.sec=the participants in the Arbitration;
-
-6.16.Alt3.8.1.3.sec=those assisting the parties in the preparation or presentation of the Arbitration;
-
-6.16.Alt3.8.1.4.sec=other employees or agents of the parties with a need to know such information; and
-
-6.16.Alt3.8.1.5.sec=any third parties that are subpoenaed or otherwise provide discovery in the Arbitration proceedings, only to the extent necessary to obtain such discovery.
-
-6.16.Alt3.8.1.=[G/Z/ol-i/s3]
-
-6.16.Alt3.8.2.sec=In all events, the parties [and any third parties] participating in the Arbitration proceedings shall treat information pertaining to the Arbitration with the same care that they treat their most valuable proprietary secrets.
-
-6.16.Alt3.8.3.sec=In the event that federal law imposes upon either party an obligation to disclose the fact of the Arbitration or the nature of the claims or counterclaims asserted, such party(ies) shall disclose no more than the minimum information required by law after first consulting with and attempting in good faith to reach agreement with the opposing party(-ies) regarding the scope and content of any such required disclosure.
-
-6.16.Alt3.8.=[G/Z/para/s3]
+6.16.Alt3.8.sec=The parties hereto agree that, subject to any non-waivable disclosure obligations under federal law, the Arbitration, and all matters relating thereto or arising thereunder, including, without limitation, the existence of the Dispute, the Arbitration and all of its elements (including any pleadings, briefs or other documents submitted or exchanged, any testimony or other oral submissions, [any third-party discovery proceedings, including any discovery obtained pursuant thereto,] and any decision of the Arbitrator or Award), shall be kept strictly confidential, and each party hereby agrees that such information shall not be disclosed beyond: (i) the Arbitrator and necessary support personnel; (ii) the participants in the Arbitration; (iii) those assisting the parties in the preparation or presentation of the Arbitration; (iv) other employees or agents of the parties with a need to know such information; and (v) any third parties that are subpoenaed or otherwise provide discovery in the Arbitration proceedings, only to the extent necessary to obtain such discovery. In all events, the parties [and any third parties] participating in the Arbitration proceedings shall treat information pertaining to the Arbitration with the same care that they treat their most valuable proprietary secrets. In the event that federal law imposes upon either party an obligation to disclose the fact of the Arbitration or the nature of the claims or counterclaims asserted, such party(ies) shall disclose no more than the minimum information required by law after first consulting with and attempting in good faith to reach agreement with the opposing party(-ies) regarding the scope and content of any such required disclosure.
 
 6.16.Alt3.9.sec=Each party hereto shall bear its own legal fees and costs in connection with the Arbitration; provided, however, that each such party shall pay one-half of any filing fees, fees and expenses of the Arbitrator or other similar costs incurred by the parties in connection with the prosecution of the Arbitration.
 
@@ -994,39 +722,13 @@ Optional:
 
 6.17.Ti=No Commitment for Additional Financing
 
-6.17.1.sec=The Company acknowledges and agrees that no Purchaser has made any representation, undertaking, commitment or agreement to provide or assist the Company in obtaining any financing, investment or other assistance, other than the purchase of the Shares as set forth herein and subject to the conditions set forth herein.
-
-6.17.2.0.sec=In addition, the Company acknowledges and agrees that
-
-6.17.2.1.sec=no statements, whether written or oral, made by any Purchaser or its representatives on or after the date of this Agreement shall create an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment,
-
-6.17.2.2.sec=the Company shall not rely on any such statement by any Purchaser or its representatives, and
-
-6.17.2.3.sec=an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment may only be created by a written agreement, signed by such Purchaser and the Company, setting forth the terms and conditions of such financing or investment and stating that the parties intend for such writing to be a binding obligation or agreement.
-
-6.17.2.=[G/Z/ol-i/s3]
-
-6.17.3.sec=Each Purchaser shall have the right, in its sole and absolute discretion, to refuse or decline to participate in any other financing of or investment in the Company, and shall have no obligation to assist or cooperate with the Company in obtaining any financing, investment or other assistance.
-
-6.17.=[G/Z/paras/s3]
+6.17.sec=The Company acknowledges and agrees that no Purchaser has made any representation, undertaking, commitment or agreement to provide or assist the Company in obtaining any financing, investment or other assistance, other than the purchase of the Shares as set forth herein and subject to the conditions set forth herein. In addition, the Company acknowledges and agrees that (i) no statements, whether written or oral, made by any Purchaser or its representatives on or after the date of this Agreement shall create an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment, (ii) the Company shall not rely on any such statement by any Purchaser or its representatives, and (iii) an obligation, commitment or agreement to provide or assist the Company in obtaining any financing or investment may only be created by a written agreement, signed by such Purchaser and the Company, setting forth the terms and conditions of such financing or investment and stating that the parties intend for such writing to be a binding obligation or agreement. Each Purchaser shall have the right, in its sole and absolute discretion, to refuse or decline to participate in any other financing of or investment in the Company, and shall have no obligation to assist or cooperate with the Company in obtaining any financing, investment or other assistance.
 
 Optional:
 
 6.18.Ti=Waiver of Conflicts
 
-6.18.1.sec=Each party to this Agreement acknowledges that [insert name of Company counsel], counsel for the Company, may have in the past performed, and may continue to or in the future perform, legal services for certain of the Purchasers in matters that are similar, but not substantially related, to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters.
-
-6.18.2.0.sec=Accordingly, each party to this Agreement hereby acknowledges that
-
-6.18.2.1.sec=they have had an opportunity to ask for information relevant to this disclosure, and
-
-6.18.2.2.sec=[insert name of Company counsel] represents only the Company with respect to the Agreement and the transactions contemplated hereby.
-
-6.18.2.=[G/Z/ol-a/s2]
-
-6.18.3.sec=The Company gives its informed consent to [insert name of Company counsel]’s representation of the Purchasers in matters not substantially related to this Agreement, and the Purchasers give their informed consent to [insert name of Company counsel]’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.
-
-6.18.=[G/Z/paras/s2]
+6.18.sec=Each party to this Agreement acknowledges that [insert name of Company counsel], counsel for the Company, may have in the past performed, and may continue to or in the future perform, legal services for certain of the Purchasers in matters that are similar, but not substantially related, to the transactions described in this Agreement, including the representation of such Purchasers in venture capital financings and other matters. Accordingly, each party to this Agreement hereby acknowledges that (a) they have had an opportunity to ask for information relevant to this disclosure, and (b) [insert name of Company counsel] represents only the Company with respect to the Agreement and the transactions contemplated hereby.  The Company gives its informed consent to [insert name of Company counsel]’s representation of the Purchasers in matters not substantially related to this Agreement, and the Purchasers give their informed consent to [insert name of Company counsel]’s representation of the Company in connection with this Agreement and the transactions contemplated hereby.
 
 [Signature Page Follows]
 
@@ -1091,57 +793,57 @@ Annex.=[G/Z/ol/9]
 
 CodersNote=HELPERS:
 
-1.2(b).Xnum=<a href='#1.2.2.Sec'>1.2(b)</a>
+1.2(b).Xnum=<a href='#1.2.2.sec'>1.2(b)</a>
 
 1.3(a).Xnum=<a href='#1.3.1.sec'>1.3(a)</a>
 
-2.10.Xnum=<a href='#2.10.Sec'>2.10</a>
+2.10.Xnum=<a href='#2.10.sec'>2.10</a>
 
-2.15.Xnum=<a href='#2.15.Sec'>2.15</a>
+2.15.Xnum=<a href='#2.15.sec'>2.15</a>
 
-2.19.Xnum=<a href='#2.19.Sec'>2.19</a>
+2.19.Xnum=<a href='#2.19.sec'>2.19</a>
 
-2.2.Xnum=<a href='#2.2.Sec'>2.2</a>
+2.2.Xnum=<a href='#2.2.sec'>2.2</a>
 
 2.2(a)(ii).Xnum=<a href='#2.2.1.2.sec'>2.2(a)(ii)</a>
 
 2.2(b).Xnum=<a href='#2.2.2.sec'>2.2(b)</a>
 
-2.24.Xnum=<a href='#2.24.Sec'>2.24</a>
+2.24.Xnum=<a href='#2.24.sec'>2.24</a>
 
-2.3.Xnum=<a href='#2.3.Sec'>2.3</a>
+2.3.Xnum=<a href='#2.3.sec'>2.3</a>
 
-2.4.Xnum=<a href='#2.4.Sec'>2.4</a>
+2.4.Xnum=<a href='#2.4.sec'>2.4</a>
 
-2.5.Xnum=<a href='#2.5.Sec'>2.5</a>
+2.5.Xnum=<a href='#2.5.sec'>2.5</a>
 
-2.6.Xnum=<a href='#2.6.Sec'>2.6</a>
+2.6.Xnum=<a href='#2.6.sec'>2.6</a>
 
-2.8.Xnum=<a href='#2.8.Sec'>2.8</a>
+2.8.Xnum=<a href='#2.8.sec'>2.8</a>
 
-2.Xnum=<a href='#2.Sec'>2</a>
+2.Xnum=<a href='#2.sec'>2</a>
 
-3.Xnum=<a href='#3.Sec'>3</a>
+3.Xnum=<a href='#3.sec'>3</a>
 
-4.1.Xnum=<a href='#4.1.Sec'>4.1</a>
+4.1.Xnum=<a href='#4.1.sec'>4.1</a>
 
-4.2.Xnum=<a href='#4.2.Sec'>4.2</a>
+4.2.Xnum=<a href='#4.2.sec'>4.2</a>
 
-4.Xnum=<a href='#4.Sec'>4</a>
+4.Xnum=<a href='#4.sec'>4</a>
 
-6.10.Xnum=<a href='#6.10.Sec'>6.10</a>
+6.10.Xnum=<a href='#6.10.sec'>6.10</a>
 
 6.16.Xnum=<a href='#6.16.sec'>6.16</a>
 
-6.6.Xnum=<a href='#6.6.Sec'>6.6</a>
+6.6.Xnum=<a href='#6.6.sec'>6.6</a>
 
-Annex.3.2.16(c)(i).Xnum=<a href='#Annex.3.Sec'>2.16(c)(i)</a>
+Annex.3.2.16(c)(i).Xnum=<a href='#Annex.3.sec'>2.16(c)(i)</a>
 
-Annex.3.2.16(c)(ii).Xnum=<a href='#Annex.3.Sec'>2.16(c)(ii)</a>
+Annex.3.2.16(c)(ii).Xnum=<a href='#Annex.3.sec'>2.16(c)(ii)</a>
 
-Annex.3.2.16(f).Xnum=<a href='#Annex.3.Sec'>2.16(f)</a>
+Annex.3.2.16(f).Xnum=<a href='#Annex.3.sec'>2.16(f)</a>
 
-Annex.3.2.2(c).Xnum=<a href='#Annex.3.Sec'>2.2(c)</a>
+Annex.3.2.2(c).Xnum=<a href='#Annex.3.sec'>2.2(c)</a>
 
 Annex.3.2.8(f).Xnum=<a href='#Annex.3.sec'>2.8(f)</a>
 
